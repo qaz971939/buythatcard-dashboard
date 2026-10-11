@@ -1,0 +1,502 @@
+{
+  "metrics": {
+    "today_drop_count": 0,
+    "seven_days_drop_count": 0,
+    "last_drop_time": "尚無降價紀錄",
+    "today_new_products_count": 3,
+    "total_products_count": 3,
+    "last_updated_time": "2026-10-11 08:10:41"
+  },
+  "products": [
+    {
+      "product_id": "CATTER_871527",
+      "product_name": "2026 Topps Allen & Ginter Baseball*3 Box PYT [20261008]",
+      "break_number": "20261008",
+      "play_type": "PYT",
+      "is_filler": false,
+      "parent_product_id": null,
+      "parent_position_id": null,
+      "link_status": "unconfirmed",
+      "link_confidence": "none",
+      "scrape_status": "success",
+      "scrape_error_reason": null,
+      "product_url": "https://www.catterbreak.com/portal_c1_cnt_page.php?owner_num=c1_96122&button_num=c1&folder_id=164901&cnt_id=871527",
+      "last_observed_time": "2026-10-11 08:10:21",
+      "listed_in_latest_sweep": true,
+      "first_discovered_time": "2026-10-11 01:06:15",
+      "total_positions": 31,
+      "unit_pricing": false,
+      "position_count_source": "官網選項",
+      "positions": [
+        {
+          "original_name": "ALL-NON-MLB",
+          "category": "PYT 位置",
+          "opening_price": 3799,
+          "latest_price": 3799,
+          "currency": "TWD",
+          "remaining_quantity": 0,
+          "sold_out": true,
+          "last_price_change_time": null
+        },
+        {
+          "original_name": "道奇",
+          "category": "PYT 位置",
+          "opening_price": 3499,
+          "latest_price": 3499,
+          "currency": "TWD",
+          "remaining_quantity": 0,
+          "sold_out": true,
+          "last_price_change_time": null
+        },
+        {
+          "original_name": "洋基",
+          "category": "PYT 位置",
+          "opening_price": 2299,
+          "latest_price": 2299,
+          "currency": "TWD",
+          "remaining_quantity": 0,
+          "sold_out": true,
+          "last_price_change_time": null
+        },
+        {
+          "original_name": "白襪",
+          "category": "PYT 位置",
+          "opening_price": 1999,
+          "latest_price": 1999,
+          "currency": "TWD",
+          "remaining_quantity": 1,
+          "sold_out": false,
+          "last_price_change_time": null
+        },
+        {
+          "original_name": "釀酒人",
+          "category": "PYT 位置",
+          "opening_price": 1999,
+          "latest_price": 1999,
+          "currency": "TWD",
+          "remaining_quantity": 1,
+          "sold_out": false,
+          "last_price_change_time": null
+        },
+        {
+          "original_name": "皇家",
+          "category": "PYT 位置",
+          "opening_price": 1499,
+          "latest_price": 1499,
+          "currency": "TWD",
+          "remaining_quantity": 1,
+          "sold_out": false,
+          "last_price_change_time": null
+        },
+        {
+          "original_name": "老虎",
+          "category": "PYT 位置",
+          "opening_price": 1399,
+          "latest_price": 1399,
+          "currency": "TWD",
+          "remaining_quantity": 1,
+          "sold_out": false,
+          "last_price_change_time": null
+        },
+        {
+          "original_name": "海盜",
+          "category": "PYT 位置",
+          "opening_price": 1199,
+          "latest_price": 1199,
+          "currency": "TWD",
+          "remaining_quantity": 1,
+          "sold_out": false,
+          "last_price_change_time": null
+        },
+        {
+          "original_name": "紅襪",
+          "category": "PYT 位置",
+          "opening_price": 1199,
+          "latest_price": 1199,
+          "currency": "TWD",
+          "remaining_quantity": 1,
+          "sold_out": false,
+          "last_price_change_time": null
+        },
+        {
+          "original_name": "紅雀",
+          "category": "PYT 位置",
+          "opening_price": 1199,
+          "latest_price": 1199,
+          "currency": "TWD",
+          "remaining_quantity": 1,
+          "sold_out": false,
+          "last_price_change_time": null
+        },
+        {
+          "original_name": "小熊",
+          "category": "PYT 位置",
+          "opening_price": 1199,
+          "latest_price": 1199,
+          "currency": "TWD",
+          "remaining_quantity": 0,
+          "sold_out": true,
+          "last_price_change_time": null
+        },
+        {
+          "original_name": "紅人",
+          "category": "PYT 位置",
+          "opening_price": 1099,
+          "latest_price": 1099,
+          "currency": "TWD",
+          "remaining_quantity": 1,
+          "sold_out": false,
+          "last_price_change_time": null
+        },
+        {
+          "original_name": "運動家",
+          "category": "PYT 位置",
+          "opening_price": 1099,
+          "latest_price": 1099,
+          "currency": "TWD",
+          "remaining_quantity": 1,
+          "sold_out": false,
+          "last_price_change_time": null
+        },
+        {
+          "original_name": "水手",
+          "category": "PYT 位置",
+          "opening_price": 999,
+          "latest_price": 999,
+          "currency": "TWD",
+          "remaining_quantity": 1,
+          "sold_out": false,
+          "last_price_change_time": null
+        },
+        {
+          "original_name": "藍鳥",
+          "category": "PYT 位置",
+          "opening_price": 999,
+          "latest_price": 999,
+          "currency": "TWD",
+          "remaining_quantity": 1,
+          "sold_out": false,
+          "last_price_change_time": null
+        },
+        {
+          "original_name": "大都會",
+          "category": "PYT 位置",
+          "opening_price": 999,
+          "latest_price": 999,
+          "currency": "TWD",
+          "remaining_quantity": 1,
+          "sold_out": false,
+          "last_price_change_time": null
+        },
+        {
+          "original_name": "勇士",
+          "category": "PYT 位置",
+          "opening_price": 799,
+          "latest_price": 799,
+          "currency": "TWD",
+          "remaining_quantity": 1,
+          "sold_out": false,
+          "last_price_change_time": null
+        },
+        {
+          "original_name": "巨人",
+          "category": "PYT 位置",
+          "opening_price": 799,
+          "latest_price": 799,
+          "currency": "TWD",
+          "remaining_quantity": 1,
+          "sold_out": false,
+          "last_price_change_time": null
+        },
+        {
+          "original_name": "金鶯",
+          "category": "PYT 位置",
+          "opening_price": 799,
+          "latest_price": 799,
+          "currency": "TWD",
+          "remaining_quantity": 1,
+          "sold_out": false,
+          "last_price_change_time": null
+        },
+        {
+          "original_name": "守護者",
+          "category": "PYT 位置",
+          "opening_price": 799,
+          "latest_price": 799,
+          "currency": "TWD",
+          "remaining_quantity": 1,
+          "sold_out": false,
+          "last_price_change_time": null
+        },
+        {
+          "original_name": "費城人",
+          "category": "PYT 位置",
+          "opening_price": 799,
+          "latest_price": 799,
+          "currency": "TWD",
+          "remaining_quantity": 0,
+          "sold_out": true,
+          "last_price_change_time": null
+        },
+        {
+          "original_name": "天使",
+          "category": "PYT 位置",
+          "opening_price": 599,
+          "latest_price": 599,
+          "currency": "TWD",
+          "remaining_quantity": 1,
+          "sold_out": false,
+          "last_price_change_time": null
+        },
+        {
+          "original_name": "國民",
+          "category": "PYT 位置",
+          "opening_price": 599,
+          "latest_price": 599,
+          "currency": "TWD",
+          "remaining_quantity": 1,
+          "sold_out": false,
+          "last_price_change_time": null
+        },
+        {
+          "original_name": "太空人",
+          "category": "PYT 位置",
+          "opening_price": 599,
+          "latest_price": 599,
+          "currency": "TWD",
+          "remaining_quantity": 1,
+          "sold_out": false,
+          "last_price_change_time": null
+        },
+        {
+          "original_name": "遊騎兵",
+          "category": "PYT 位置",
+          "opening_price": 499,
+          "latest_price": 499,
+          "currency": "TWD",
+          "remaining_quantity": 1,
+          "sold_out": false,
+          "last_price_change_time": null
+        },
+        {
+          "original_name": "光芒",
+          "category": "PYT 位置",
+          "opening_price": 499,
+          "latest_price": 499,
+          "currency": "TWD",
+          "remaining_quantity": 0,
+          "sold_out": true,
+          "last_price_change_time": null
+        },
+        {
+          "original_name": "教士",
+          "category": "PYT 位置",
+          "opening_price": 499,
+          "latest_price": 499,
+          "currency": "TWD",
+          "remaining_quantity": 0,
+          "sold_out": true,
+          "last_price_change_time": null
+        },
+        {
+          "original_name": "馬林魚",
+          "category": "PYT 位置",
+          "opening_price": 399,
+          "latest_price": 399,
+          "currency": "TWD",
+          "remaining_quantity": 0,
+          "sold_out": true,
+          "last_price_change_time": null
+        },
+        {
+          "original_name": "雙城",
+          "category": "PYT 位置",
+          "opening_price": 399,
+          "latest_price": 399,
+          "currency": "TWD",
+          "remaining_quantity": 0,
+          "sold_out": true,
+          "last_price_change_time": null
+        },
+        {
+          "original_name": "落磯",
+          "category": "PYT 位置",
+          "opening_price": 299,
+          "latest_price": 299,
+          "currency": "TWD",
+          "remaining_quantity": 1,
+          "sold_out": false,
+          "last_price_change_time": null
+        },
+        {
+          "original_name": "響尾蛇",
+          "category": "PYT 位置",
+          "opening_price": 299,
+          "latest_price": 299,
+          "currency": "TWD",
+          "remaining_quantity": 0,
+          "sold_out": true,
+          "last_price_change_time": null
+        }
+      ],
+      "filler_data": null
+    },
+    {
+      "product_id": "CATTER_871534",
+      "product_name": "2026 Rakuten Girls 年度女孩卡精裝盒*10 BOX RDG 完整箱 [20261008A]",
+      "break_number": "20261008A",
+      "play_type": "Random",
+      "is_filler": false,
+      "parent_product_id": null,
+      "parent_position_id": null,
+      "link_status": "unconfirmed",
+      "link_confidence": "none",
+      "scrape_status": "success",
+      "scrape_error_reason": null,
+      "product_url": "https://www.catterbreak.com/portal_c1_cnt_page.php?owner_num=c1_96122&button_num=c1&folder_id=164900&cnt_id=871534",
+      "last_observed_time": "2026-10-11 08:10:31",
+      "listed_in_latest_sweep": true,
+      "first_discovered_time": "2026-10-11 01:07:26",
+      "total_positions": 20,
+      "unit_pricing": true,
+      "position_count_source": "使用者確認",
+      "positions": [
+        {
+          "original_name": "隨機位置（每份）",
+          "category": "Random 位置",
+          "opening_price": 1469,
+          "latest_price": 1469,
+          "currency": "TWD",
+          "remaining_quantity": 19,
+          "sold_out": false,
+          "last_price_change_time": null
+        }
+      ],
+      "filler_data": null
+    },
+    {
+      "product_id": "CATTER_871581",
+      "product_name": "2025 中信兄弟 Passion Sisters  Subunit 小分隊 澳門先行版*10 BOX PYG  [20261010]",
+      "break_number": "20261010",
+      "play_type": "PYG",
+      "is_filler": false,
+      "parent_product_id": null,
+      "parent_position_id": null,
+      "link_status": "unconfirmed",
+      "link_confidence": "none",
+      "scrape_status": "success",
+      "scrape_error_reason": null,
+      "product_url": "https://www.catterbreak.com/portal_c1_cnt_page.php?owner_num=c1_96122&button_num=c1&folder_id=164900&cnt_id=871581",
+      "last_observed_time": "2026-10-11 08:10:32",
+      "listed_in_latest_sweep": true,
+      "first_discovered_time": "2026-10-11 01:07:36",
+      "total_positions": 10,
+      "unit_pricing": false,
+      "position_count_source": "官網選項",
+      "positions": [
+        {
+          "original_name": "邊荷律",
+          "category": "PYG 位置",
+          "opening_price": 4999,
+          "latest_price": 4999,
+          "currency": "TWD",
+          "remaining_quantity": 1,
+          "sold_out": false,
+          "last_price_change_time": null
+        },
+        {
+          "original_name": "小迪",
+          "category": "PYG 位置",
+          "opening_price": 4799,
+          "latest_price": 4799,
+          "currency": "TWD",
+          "remaining_quantity": 1,
+          "sold_out": false,
+          "last_price_change_time": null
+        },
+        {
+          "original_name": "金渡兒",
+          "category": "PYG 位置",
+          "opening_price": 3999,
+          "latest_price": 3999,
+          "currency": "TWD",
+          "remaining_quantity": 1,
+          "sold_out": false,
+          "last_price_change_time": null
+        },
+        {
+          "original_name": "JJUBI",
+          "category": "PYG 位置",
+          "opening_price": 3499,
+          "latest_price": 3499,
+          "currency": "TWD",
+          "remaining_quantity": 1,
+          "sold_out": false,
+          "last_price_change_time": null
+        },
+        {
+          "original_name": "衣宸",
+          "category": "PYG 位置",
+          "opening_price": 2999,
+          "latest_price": 2999,
+          "currency": "TWD",
+          "remaining_quantity": 0,
+          "sold_out": true,
+          "last_price_change_time": null
+        },
+        {
+          "original_name": "夏蕾",
+          "category": "PYG 位置",
+          "opening_price": 1999,
+          "latest_price": 1999,
+          "currency": "TWD",
+          "remaining_quantity": 0,
+          "sold_out": true,
+          "last_price_change_time": null
+        },
+        {
+          "original_name": "維尼",
+          "category": "PYG 位置",
+          "opening_price": 1999,
+          "latest_price": 1999,
+          "currency": "TWD",
+          "remaining_quantity": 0,
+          "sold_out": true,
+          "last_price_change_time": null
+        },
+        {
+          "original_name": "瑄",
+          "category": "PYG 位置",
+          "opening_price": 1999,
+          "latest_price": 1999,
+          "currency": "TWD",
+          "remaining_quantity": 0,
+          "sold_out": true,
+          "last_price_change_time": null
+        },
+        {
+          "original_name": "少鹽",
+          "category": "PYG 位置",
+          "opening_price": 1299,
+          "latest_price": 1299,
+          "currency": "TWD",
+          "remaining_quantity": 0,
+          "sold_out": true,
+          "last_price_change_time": null
+        },
+        {
+          "original_name": "李丹妃",
+          "category": "PYG 位置",
+          "opening_price": 1299,
+          "latest_price": 1299,
+          "currency": "TWD",
+          "remaining_quantity": 1,
+          "sold_out": false,
+          "last_price_change_time": null
+        }
+      ],
+      "filler_data": null
+    }
+  ],
+  "price_drop_events": []
+}
